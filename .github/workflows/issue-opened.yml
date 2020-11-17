@@ -1,0 +1,4 @@
+name: "opened issue"
+on: 
+  issues:
+    types: [opened, edited, milestoned]
